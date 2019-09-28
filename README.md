@@ -1,7 +1,7 @@
 # Asistente-taquero
 Aplicación demo para hacer el IBM Challenge
 
-Para poder participar para ganar un Kit y Créditos en la nube necesitan entregar la URL de su aplicación publicada en ibmcloud a i.carrada@ibm.com antes del 5 de Octubre a la media noche (si la tienen corriendo en localhost pueden enviar los ScreenShots)
+Para poder participar para ganar un Kit, Créditos en la nube, asesoría 1:1 con un experto y una visita al campus de IBM necesitan entregar la URL de su aplicación publicada en ibmcloud a i.carrada@ibm.com antes del 5 de Octubre a la media noche (si la tienen corriendo en localhost pueden enviar los ScreenShots)
 
 El caso de uso es un asistente de una taquería que debe de cumplir con los siguientes parámetros:
 
@@ -19,5 +19,8 @@ El caso de uso es un asistente de una taquería que debe de cumplir con los sigu
 Se puede añadir la integración con cualquier otro caso de uso para obtener un mayor puntaje
 
 Dentro del Manual IBM Challenge.docx viene como hacer del paso 1 al 4b
+
+TIP 1: Dentro de app js ver las líneas 13, 14 y 105
+TIP 2: Entrega hasta donde llegaste!
 
 Mucho éxito!
