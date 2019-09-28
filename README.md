@@ -9,10 +9,10 @@ El caso de uso es un asistente de una taquería que debe de cumplir con los sigu
 2. El skill debe de estar vinculado a un Taquero con el nombre que guste el usuario
 3. Debe haber al menos 4 intents creados (Sugeridos: pedirtaco, catalogo, pagar y ubicación)
 4. El asistente virtual debe de utilizar:
-   4a Multiple Responses (Condicionales al pedirtaco)
-   4b Slots (condicionales al pedirtaco)
-   4c Operadores (multiplicación o división) con variables de contexto dentro de la programación de un Nodo, sugerido para pagar (TIP: Usar la sintaxis <? ?> dentro de la cual se pueden hacer operaciones)
-   4d Contestar con Imágenes y Texto (pedirtaco) 
+4a Multiple Responses (Condicionales al pedirtaco)
+4b Slots (condicionales al pedirtaco)
+4c Operadores (multiplicación o división) con variables de contexto dentro de la programación de un Nodo, sugerido para pagar (TIP: Usar la sintaxis <? ?> dentro de la cual se pueden hacer operaciones)
+4d Contestar con Imágenes y Texto (pedirtaco) 
 
 5. Como último pediríamos la conexión (envío de una variable) de la webapp hacia el asistente y del asistente hacia la webapp (Tip: Es usando variables de contexto, viene CASI totalmente integrado dentro de la app)
 
