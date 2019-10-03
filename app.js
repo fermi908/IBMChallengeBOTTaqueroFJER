@@ -10,9 +10,9 @@ var bodyParser = require('body-parser');
 
 //IAM
 var wconv_version_date = '2018-09-20';
-var wconv_workspaceId = '';
-var wconv_apikey = ''
-var wconv_url = 'https://gateway.watsonplatform.net/assistant/api'
+var wconv_workspaceId = '27456771-87e4-482a-8a76-c200f8da8dde';
+var wconv_apikey = 'yJsY2kIoBUK2-CMePKti80_zElC29QvyaLZf1nYHc_j2';
+var wconv_url = 'https://gateway.watsonplatform.net/assistant/api';
 
 var app = express();
 var appEnv = cfenv.getAppEnv();
