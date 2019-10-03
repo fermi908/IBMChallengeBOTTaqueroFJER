@@ -1,6 +1,6 @@
 applications:
 - path: .
   memory: 256M
-  instances: 1
+  instances: 5
   name: asistente-taquero
   random-route: true
